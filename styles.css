@@ -1,0 +1,24 @@
+body, html {
+		    background-color: white;
+		    font-family: 'Raleway', sans-serif;
+		    padding: 0px;
+		    margin: 0px;
+		}
+h1 {
+	color: white;
+	background: RGB(129, 219, 209);
+	padding:30px;
+	margin: 0px;
+	text-align: center;
+	font-weight: bold;
+}
+
+ul { 
+	text-align: center; 
+}
+
+p.info {
+	color: #008071;
+	background: white;
+	text-align: center;
+}
